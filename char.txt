@@ -1,2 +1,11 @@
 ls -lrt
 sudo apt update
+
+#installing Git & initialize
+
+sudo apt install git
+git init
+
+
+
+
